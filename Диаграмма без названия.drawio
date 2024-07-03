@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2024-07-03T07:25:23.627Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" version="24.6.4" etag="_ITBxIFjDleLSfHWiCOF" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-03T07:30:05.841Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="MDp_cSXxq_3LwU57jVvN" version="24.6.4" type="github">
   <diagram name="Страница — 1" id="VKMV_SKVlXoffhuY-rsW">
-    <mxGraphModel>
+    <mxGraphModel dx="2074" dy="1086" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="r6eCBaZ20DT4zO6aVehQ-1" value="DB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="267.5" y="360" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="r6eCBaZ20DT4zO6aVehQ-2" value="&lt;div&gt;Server&lt;/div&gt;&lt;div&gt;Omnicomm&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="120" width="125" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r6eCBaZ20DT4zO6aVehQ-5" value="API &lt;br&gt;Omnnicomm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="272.5" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r6eCBaZ20DT4zO6aVehQ-6" value="API&lt;br&gt;ARSA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="272.5" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r6eCBaZ20DT4zO6aVehQ-7" value="Client ARSA(cloud)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="272.5" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
